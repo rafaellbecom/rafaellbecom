@@ -1,5 +1,4 @@
 ### Fala rede, me chamo Rafael! 👋
-Estudante de Engenharia da Computação e Desenvolvedor Front-End JR na <a href="https://r2agenciadigital.com.br/#intro" target="_blank">R2Agência Digital</a> e <a href="https://www.instagram.com/nordev.tech/">Nordev Tech</a>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
