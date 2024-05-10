@@ -1,6 +1,6 @@
 ## Rafael Lima Barreto
 
-Graduando em Engenharia da Computação, Desenvolvedor Web e UI/UX Designer com cerca de 3 anos de experiência em prototipação e desenvolvimento de sites, e-commerces, páginas e portais
+Sou Graduando em Engenharia da Computação, Desenvolvedor Web e UI/UX Designer com cerca de 3 anos de experiência em prototipação e desenvolvimento de sites, e-commerces, páginas e portais
 
 ### 💻 Competências Técnicas
 - Desenvolvimento Web: HTML, CSS, JavaScript, React, WordPress;
