@@ -1,11 +1,25 @@
-## Graduando em Engenharia da Computação
+## Rafael Lima Barreto
+
+Graduando em Engenharia da Computação, Desenvolvedor Web e UI/UX Designer com cerca de 3 anos de experiência em prototipação e desenvolvimento de sites, e-commerces, páginas e portais
+
+### 💻 Competências Técnicas
+• Desenvolvimento Web: HTML, CSS, JavaScript, React, WordPress;
+• Design: UI/UX Design, Figma;
+• Outras Ferramentas: TailwindCSS, Bootstrap
+
+### 🎓 Formações
+• Graduando em Engenharia da Computação pela Universidade Salvador
+• Certificações na Escola de Tecnologia Alura
+
+### 💼 Portfólios
+• GitHub: https://github.com/rafaellbecom
+• Behance: https://www.behance.net/rafaellbecom
+
+### ✉️ Contatos
+• Whatsapp: (75) 98298-5771
+• Gmail: rafaellbecom@gmail.com
+
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Rafael-WORDPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</div>
   <br>
 
 <div> 
